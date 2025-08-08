@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Comprehensive beginner’s guide on how to learn coding, including steps, project ideas, and accessible learning tips.">
+  <title>How to Learn to Code: A Beginner's Guide</title>
+</head>
+<body id = "top">
+  <!-- Skip link for keyboard and screen reader users -->
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+
+  <header>
+    <h1>How to Learn to Code</h1>
+    <p>A structured, beginner-friendly guide packed with practical tips and accessible learning strategies.</p>
+    <nav aria-label="Main navigation">
+      <ul>
+        <li><a href="#why-learn">Why Learn to Code</a></li>
+        <li><a href="#start">Getting Started</a></li>
+        <li><a href="#projects">Project Ideas</a></li>
+        <li><a href="#faq">FAQ</a></li>
+        <li><a href="#resources">Resources</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="main-content">
+    <section id="why-learn" aria-labelledby="why-learn-heading">
+      <h2 id="why-learn-heading">Why Learn to Code?</h2>
+      <p>Coding empowers you with problem-solving skills and opens career paths in technology, web development, data science, AI, and more.</p>
+    </section>
+
+    <section id="start" aria-labelledby="start-heading">
+      <h2 id="start-heading">Getting Started</h2>
+      <article>
+        <h3>Pick Your First Language</h3>
+        <p>Begin with beginner-friendly languages such as Python or JavaScript, known for their readability and strong community support.</p>
+      </article>
+      <article>
+        <h3>Set Achievable Goals</h3>
+        <p>Define what you want to build; either websites, scripts to automate tasks, or mobile apps, and focus your learning path around that goal.</p>
+      </article>
+      <article>
+        <h3>Practice Consistently</h3>
+        <p>Dedicate regular time; at least 20 to 30 minutes per day, to building and improving your coding skills through hands-on practice.</p>
+      </article>
+    </section>
+
+    <section id="projects" aria-labelledby="projects-heading">
+      <h2 id="projects-heading">Beginner Project Ideas</h2>
+      <article>
+        <h3>Personal Portfolio Website</h3>
+        <figure>
+          <img src="portfolio.jpg" alt="Screenshot of a personal portfolio website page">
+          <figcaption>Showcase your projects and introduce yourself.</figcaption>
+        </figure>
+        <p>Create a simple web page featuring your bio, skills, and coding projects using HTML and CSS.</p>
+      </article>
+      <article>
+        <h3>Console Calculator</h3>
+        <p>Build and test a basic calculator script using your chosen language to practice handling input, output, and arithmetic logic.</p>
+      </article>
+    </section>
+
+    <details id="faq">
+      <summary>Frequently Asked Questions</summary>
+      <p><strong>How long does it take to learn coding?</strong><br>It depends on consistency; but with daily practice, beginners often start building simple projects within a few weeks.</p>
+      <p><strong>Do I need a degree?</strong><br>No. Many coders succeed through self-learning, practice, and real-world projects shared online.</p>
+      <p><strong>What if I don't have a tech background?</strong><br>Still ok, many have learned how to code from the beginning without a prior background.</p>
+    </details>
+  </main>
+
+  <aside aria-label=" learning resources">
+    <h2>Additional Resources</h2>
+    <ul>
+      <li><a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a></li>
+      <li><a href="https://developer.mozilla.org/" target="_blank">MDN Web Docs</a></li>
+      <li><a href="https://www.codecademy.com/" target="_blank">Codecademy</a></li>
+    </ul>
+  </aside>
+
+  <footer>
+    <p>&copy; Kaitech 2025  All rights reserved.</p>
+    <p><a href="#top">Back to top</a></p>
+  </footer>
+</body>
+</html>
